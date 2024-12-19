@@ -52,10 +52,10 @@ Counts required to WIN: 3
 ## **Code Explanation**
 
 Random number generation: The rand::Rng trait is used to generate a random number between 1 and 100.
+
 Input handling: The user is prompted to enter a guess, and the input is validated to ensure it's a number.
-Feedback: The program compares the guess to the secret number and gives feedback whether the guess is too high, too low, or correct.
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
+Feedback: The program compares the guess to the secret number and gives feedback whether the guess is too high, too low, or correct. It also returns the number of counts required for the player to guess the secret number.
 
 ## *Contributions*
 

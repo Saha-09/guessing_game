@@ -16,6 +16,7 @@ Before running this code, ensure you have the following installed:
 **Cargo**: Rust's package manager and build tool.
 
 *Installation*
+
 Clone the repository:
 ```
 git clone https://github.com/yourusername/guessing-game.git

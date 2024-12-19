@@ -54,6 +54,7 @@ Feedback: The program compares the guess to the secret number and gives feedback
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-##Contributions
+## *Contributions*
+
 Feel free to fork the repository, make changes, and submit pull requests. Issues and suggestions are also welcome.
 

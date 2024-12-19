@@ -12,7 +12,9 @@ Prerequisites
 Before running this code, ensure you have the following installed:
 
 **Rust**: A systems programming language.
+
 **Cargo**: Rust's package manager and build tool.
+
 *Installation*
 Clone the repository:
 ```

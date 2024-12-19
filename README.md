@@ -15,7 +15,7 @@ Before running this code, ensure you have the following installed:
 
 **Cargo**: Rust's package manager and build tool.
 
-*Installation*
+<ins>***Installation***</ins>
 
 Clone the repository:
 ```
